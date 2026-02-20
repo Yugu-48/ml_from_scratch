@@ -19,3 +19,13 @@ Implementing core Machine Learning algorithms from scratch using NumPy, with str
 - Keras model building
 - Loss & optimizer understanding
 - Vertex AI workshop preparation
+
+Currenlty learning:-
+Mathematical foundations for ML.
+Deep Learning using Keras & TensorFlow  
+Preparing for hands-on workshop with Vertex AI.
+
+
+This repository documents my journey of learning Machine Learning 
+from scratch — focusing on understanding concepts deeply rather 
+than just calling library functions.
